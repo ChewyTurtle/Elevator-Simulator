@@ -11,6 +11,7 @@ Assumptions
   - Elevator has weight limit that will stop any movement when exceeded
 
 Missing Features:
+  - rewrite in Java to sharpen my Java skills
   - create a GUI to simulate the external buttons and interior panel
   - Add functionality where button select timeout will automatically proceed the program. User has to hit 'Enter' right now
   - add a logging system instead of using stdout
