@@ -12,6 +12,7 @@ Assumptions
 
 Missing Features:
   - create a GUI to simulate the external buttons and interior panel
+  - There is still room for refactoring and simplifying some functions.  Especially the main ones
   - set up a time range where the Elevator could be active
   - Set up an asynchronous way for floor requests from outside buttons to be added to queue
   
